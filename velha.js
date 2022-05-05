@@ -4,7 +4,7 @@ var jogadorSelecionado = document.getElementById("jogador-selecionado");
 var vencedorSelecionado = document.getElementById("vencedor-selecionado");
 var quadrados = document.getElementById('quadrado');
 
-mudarJogador('X');
+mudarJogador(X);
 
 function escolherQuadrado (id) {
 
